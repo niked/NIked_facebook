@@ -11,3 +11,5 @@ usage :
 python2 niked.py
 enter your email to be hacked
 and choose the list which i have made or make your own using Cupp.
+![](1.png)
+![](2.png)
