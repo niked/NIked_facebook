@@ -6,3 +6,8 @@ This project is under development so we need to add your contacts without any le
 REQIREMENTS :
 1. Mechanize
 2. python2
+
+usage :
+python2 niked.py
+enter your email to be hacked
+and choose the list which i have made or make your own using Cupp.
